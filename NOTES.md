@@ -11,7 +11,7 @@
         - Stulpeliai
         - Visa kita
 - [x] surasyti HTML
-- [ ] issikirpti nuotraukas ir jas panaudoti
+- [x] issikirpti nuotraukas ir jas panaudoti
     - panaudoti realiatyvu kelia
     - png formatas del permatomumo(transparent) stiliaus
 - [ ] aprasome stiliu:
