@@ -3,6 +3,8 @@
 - [x] pradine failu struktura
    - index.html
    - .gitignore
+- [x] paviesinti projekta per Github pages(gausim Url)
+- [ ] README.md
 - [ ] atlikti dizaino analize
 - [ ] surasyti HTML
 - [ ] issikirpti nuotraukas ir jas panaudoti
@@ -12,11 +14,13 @@
     - turinys turi buti centre
     - pagrindinis plotis turi buti fiksuotas
     - stiliu(CSS) atskirti nuo HTML
-- [ ] README.md
-- [ ] paviesinti projekta per Github pages(gausim Url)
+
+
 
 # Pasiskaitymui
 
 apie cia naudojama rasymo sintakes MD(mark down)
 https://guides.github.com/features/mastering-markdown/
 
+Mano projekto nuoroda:
+https://scarab911.github.io/5-mergaite/
