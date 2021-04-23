@@ -5,8 +5,12 @@
    - .gitignore(.vscode ir .DS_Store)
 - [x] paviesinti projekta per Github pages(gausim Url)
 - [ ] README.md
-- [ ] atlikti dizaino analize
-- [ ] surasyti HTML
+- [x] atlikti dizaino analize
+    - Eilutemis:
+        - Header'is
+        - Stulpeliai
+        - Visa kita
+- [x] surasyti HTML
 - [ ] issikirpti nuotraukas ir jas panaudoti
     - panaudoti realiatyvu kelia
     - png formatas del permatomumo(transparent) stiliaus
