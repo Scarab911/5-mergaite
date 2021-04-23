@@ -5,11 +5,11 @@
 
 # Mergaite
 
-_28 group website project_
+Paulius B. learning website project_
 
 This project is for learning porpuses only. Thank you for your visit!
 
-Site published at https://scarab911.github.io/5-mergaite/
+Site published [here](https://scarab911.github.io/5-mergaite/)
 
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
@@ -22,4 +22,4 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 ## Authors
 
-[Paulius B.](https://github.com/Scarab911)
+Paulius B. [GitHub](https://github.com/Scarab911)
