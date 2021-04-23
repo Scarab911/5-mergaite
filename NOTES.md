@@ -2,7 +2,7 @@
 
 - [x] pradine failu struktura
    - index.html
-   - .gitignore
+   - .gitignore(.vscode ir .DS_Store)
 - [x] paviesinti projekta per Github pages(gausim Url)
 - [ ] README.md
 - [ ] atlikti dizaino analize
